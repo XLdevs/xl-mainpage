@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hola lusifer pepito jskfnjknfkl
+=======
+hola lusifer pepito, No me voy nada me quedo al final
+>>>>>>> de010debf20860185531f50d9814f086c62d2309
